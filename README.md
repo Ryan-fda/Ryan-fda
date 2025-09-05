@@ -9,7 +9,7 @@ Eu já fiz dois site bem básicos no <b>Visual Studio Code</b>.</p>
 ---
 
 ## 🚀 Minhas Skills
-
+<div align="center" style="display: inline_block">
 <code><img src="https://skillicons.dev/icons?i=photoshop" height="50" alt="photoshop logo" />
 <code><img src="https://skillicons.dev/icons?i=ai" height="50" alt="photoshop logo" />
 <code><img src="https://skillicons.dev/icons?i=html" height="50" alt="photoshop logo" />
@@ -18,6 +18,6 @@ Eu já fiz dois site bem básicos no <b>Visual Studio Code</b>.</p>
 <code><img src="https://skillicons.dev/icons?i=robloxstudio" height="50" alt="photoshop logo" />
 <code><img src="https://skillicons.dev/icons?i=figma" height="50" alt="photoshop logo" />
 <code><img src="https://skillicons.dev/icons?i=ae" height="50" alt="photoshop logo" />
-
+</div>
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryan&show_icons=true&theme=dark)</code>
