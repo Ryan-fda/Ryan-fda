@@ -1,16 +1,23 @@
 ## Hi there 👋
+## 💜 Olá, meu nome é {Ryan da Silva}!
 
-<!--
-**Ryan-fda/Ryan-fda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>😁 Óla, eu me chamo <b>Ryan</b>, Estudante do Senac Americana, cursando <b>Multimídia</b>, e sou um cara tranquilo,
+Eu já fiz dois site bem básicos no <b>Visual Studio Code</b>.</p>
 
-Here are some ideas to get you started:
+💬 Gosto de <b>jogar</b>, assistir animes</b>, e gosto de ficar sozinho
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Minhas Skills
+
+<code><img src="https://skillicons.dev/icons?i=photoshop" height="50" alt="photoshop logo" />
+<code><img src="https://skillicons.dev/icons?i=ai" height="50" alt="photoshop logo" />
+<code><img src="https://skillicons.dev/icons?i=html" height="50" alt="photoshop logo" />
+<code><img src="https://skillicons.dev/icons?i=css" height="50" alt="photoshop logo" />
+<code><img src="https://skillicons.dev/icons?i=discord" height="50" alt="photoshop logo" />
+<code><img src="https://skillicons.dev/icons?i=robloxstudio" height="50" alt="photoshop logo" />
+<code><img src="https://skillicons.dev/icons?i=figma" height="50" alt="photoshop logo" />
+<code><img src="https://skillicons.dev/icons?i=ae" height="50" alt="photoshop logo" />
+
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryan&show_icons=true&theme=dark)</code>
